@@ -1,1 +1,0 @@
-console.log("Tarun is god")
